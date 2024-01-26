@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Ahmad
 👨‍🎓 Software Engineering student @ Concordia University in Montreal 🧑‍💻\
+🧑‍🏫 Worked as a Teaching Assistant for Object Oriented Programming in Java \ 
+💼 Interned at Bombardier as a Software Developer for 8 Months \
 🐝 Director of Technology at HackConcordia\
 </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmad-Elmahallawy/ )
