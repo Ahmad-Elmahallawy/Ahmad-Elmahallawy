@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ahmad
 👨‍🎓 Software Engineering student @ Concordia University in Montreal 🧑‍💻\
-🧑‍🏫 Worked as a Teaching Assistant for Object Oriented Programming in Java \ 
+🧑‍🏫 Worked as a Teaching Assistant for Object Oriented Programming in Java \
 💼 Interned at Bombardier as a Software Developer for 8 Months \
 🐝 Director of Technology at HackConcordia\
 </br>
