@@ -3,14 +3,17 @@
 🧑‍🏫 Worked part-time as a Teaching Assistant for Object Oriented Programming in Java \
 💼 Interned at Bombardier as a Software Developer for 8 Months \
 🐝 Director of Technology at HackConcordia\
+
+![](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&custom_title=Ahmad&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_rank=true&hide=contribs,stars)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Elmahallawy&langs_count=4&layout=compact&theme=radical&hide_border=true&border_radius=10&exclude_repo=oneirical.github.io)
 </br>
+</br>
+</br>
+You Can Also Find Me Below 👇
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmad-Elmahallawy/ )
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/296305120365510656)
-[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://ahmad-elmahallawy.me)\
-</br>
-</br>
-![Farmers Market Finder - Animated gif demo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://ahmad-elmahallawy.me)
 
 
 <!--
