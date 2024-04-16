@@ -4,7 +4,7 @@
 💼 Interned at Bombardier as a Software Developer for 8 Months \
 🐝 Director of Technology at HackConcordia
 
-![](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&custom_title=Ahmad&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_rank=true&hide=contribs,stars)
+![](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&custom_title=Ahmad&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_rank=true&hide=contribs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Elmahallawy&langs_count=4&layout=compact&theme=radical&hide_border=true&border_radius=10)
 </br>
 </br>
