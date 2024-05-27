@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Ahmad
 👨‍🎓 Software Engineering student @ Concordia University in Montreal \
-✨ Currently a Software Developer Intern at Fujitsu
+✨ Currently a Software Developer Intern at Fujitsu \
 🧑‍🏫 Worked part-time as a Teaching Assistant for Object Oriented Programming in Java \
 💼 Interned at Bombardier as a Software Developer for 8 Months \
-🐝 Director of Technology at HackConcordia \ 
+🐝 Director of Technology at HackConcordia \
 🌱 Learning ASP.NET Core
 
 ![](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&custom_title=Ahmad&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_rank=true&hide=contribs)
