@@ -1,34 +1,71 @@
-### Hi there 👋, I am Ahmad
-👨‍🎓 Software Engineering student @ Concordia University in Montreal \
-✨ Currently a Software Developer Intern at Fujitsu \
-🧑‍🏫 Worked part-time as a Teaching Assistant for Object Oriented Programming in Java \
-💼 Interned at Bombardier as a Software Developer for 8 Months \
-🐝 Director of Technology at HackConcordia \
-🌱 Learning ASP.NET Core
+# 👋 Welcome to Ahmad's GitHub!
 
-![](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&custom_title=Ahmad&show_icons=true&theme=radical&hide_border=true&border_radius=10&hide_rank=true&hide=contribs)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Elmahallawy&langs_count=4&layout=compact&theme=radical&hide_border=true&border_radius=10)
-</br>
-</br>
-</br>
-You Can Also Find Me Below 👇
+Hello there! I'm Ahmad Elmahallawy, a software engineering student at Concordia University
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmad-Elmahallawy/ )
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/296305120365510656)
-[![Portfolio](https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge)](https://ahmad-elmahallawy.me)
+## 📊 GitHub Stats
 
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&show_icons=true&hide=stars,rank_icon&theme=radical&count_private=true)
 
-<!--
-**Ahmad-Elmahallawy/Ahmad-Elmahallawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Elmahallawy&layout=compact&theme=radical&count_private=true)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+- **Languages:** Java, Python, C++, JavaScript, TypeScript, C#, HTML/CSS, PHP
+- **Frameworks & Tools:** React, Node.js, Spring Boot, ASP.NET Core, Express, Tailwind, Next.js, Docker
+- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4J
+- **Other Tools:** Git, Figma, Jira, AWS, Postman
+
+---
+
+## 🌟 Projects
+
+### 🔹 [Privacy Policy Analyzer](https://github.com/Ahmad-Elmahallawy/Privacy-Right-and-Consumer-Protection-Extension)
+- Chrome extension for automated privacy policy evaluations.
+- **Tech Stack:** React, Vite, GroqCloud.
+
+### 🔹 [Condo Management System](https://github.com/Ahmad-Elmahallawy/iCondo)
+- Web and mobile app for managing condos with layered architecture.
+- **Tech Stack:** TypeScript, React, Node.js, PostgreSQL, Expo.
+
+### 🔹 [Brilliance AI SaaS App](https://github.com/Ahmad-Elmahallawy/Brilliant-AI)
+- AI-powered SaaS for text, code, and media generation with Stripe integration.
+- **Tech Stack:** React, Next.js, TypeScript, Prisma, Clerk.
+
+### 🔹 [Smart Home Simulator](https://github.com/Ahmad-Elmahallawy/SmartHomeSimulator)
+- Implemented design patterns like Command, Observer, and Singleton to develop a simulator for smart home systems.
+- **Tech Stack:** React, Spring Boot, PostgreSQL, TypeScript, Vite.
+
+### 🔹 [XChange](https://github.com/Ahmad-Elmahallawy/XChange)
+- Skill exchange platform enabling users to trade skills easily and affordably.
+- **Tech Stack:** JavaScript, React, Node.js, MongoDB.
+
+---
+
+## 🚀 Experience
+
+### **Software Developer Intern** @ Fujitsu (2024 - Present)
+- Designed REST APIs and worked on scalable microservices with ASP.NET Core.
+
+### **Teaching Assistant (Object-Oriented Programming & DSA)** @ Concordia University (Sep 2023 – Dec 2023)
+- Conducted weekly support sessions for over 200 students, addressing course material and assignment challenges.
+- Collaborated with professors to grade assignments and exams, ensuring fairness and accuracy.
+- Provided Java-based technical guidance for coding practices and algorithm implementations.
+
+### **Software Developer Intern** @ Bombardier (2023)
+- Enhanced UI features for Bombardier's business jet management platform.
+
+---
+
+## 🌱 Let's Connect!
+
+- 📧 [Email Me](mailto:ahmad.mahallawy@gmail.com)
+- 🌐 [Portfolio](https://ahmad-elmahallawy.github.io/Ahmads-Portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Ahmad-Elmahallawy/)
+- 🧑‍💻 [GitHub](https://github.com/Ahmad-Elmahallawy)
+
+---
+
+Feel free to fork, star, or contribute to any of my projects. Let's innovate together! 🚀
