@@ -3,14 +3,6 @@
 Hello there! I'm Ahmad Elmahallawy, a software engineering student at Concordia University
 ---
 
-## 📊 GitHub Stats
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Elmahallawy&show_icons=true&hide=stars,rank_icon&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Elmahallawy&layout=compact&theme=radical&count_private=true)
-
----
-
 ## 🔧 Technical Skills
 
 - **Languages:** Java, Python, C++, JavaScript, TypeScript, C#, HTML/CSS, PHP
